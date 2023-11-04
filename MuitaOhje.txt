@@ -3,7 +3,7 @@ https://docs.replit.com/programming-ide/using-git-on-replit/git-shell
 
 Duplicate & clone ohje
 https://www.youtube.com/watch?v=lhlUOSfZu24
-
+https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/
 
 
 
